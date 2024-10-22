@@ -1,4 +1,14 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=예비%20백엔드%20개발자%20박찬서입니다.&fontAlign=50&fontAlignY=45&descAlign=100&descAlignY=100&fontSize=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=예비%20백엔드%20개발자%20박찬서입니다.&fontAlign=50&fontAlignY=40&descAlign=50&descAlignY=54&fontSize=30&descSize=16&desc=디버깅%20%20열심히;;)
+
+
+[![chanspar's GitHub stats](https://github-readme-stats.vercel.app/api?username=chanspar)](https://github.com/chanspar/github-readme-stats)
+
+
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=culfees)](https://solved.ac/culfees)
+
+
+
 
 <!--
 **chanspar/chanspar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
