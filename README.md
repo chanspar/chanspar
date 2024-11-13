@@ -1,5 +1,13 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=예비%20백엔드%20개발자%20박찬서입니다.&fontAlign=50&fontAlignY=40&descAlign=50&descAlignY=54&fontSize=30&descSize=16&desc=디버깅%20%20열심히;;)
 
+<a href="https://github.com/devxb/gitanimals">
+<img
+  src="https://render.gitanimals.org/farms/chanspar"
+  width="600"
+  height="300"
+/>
+</a>
+
 #####  활동
 - 세종대 물리천문 & 지능기전 
 - 42Seoul 9기(2023.3~2024.6)
