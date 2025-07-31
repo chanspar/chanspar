@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=예비%20백엔드%20개발자%20박찬서입니다.&fontAlign=50&fontAlignY=40&descAlign=50&descAlignY=54&fontSize=30&descSize=16&desc=객체지향이란%20%20무엇일까;;)
+
 
 <a href="https://github.com/devxb/gitanimals">
 <img
